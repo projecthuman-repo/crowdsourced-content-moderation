@@ -38,7 +38,7 @@ Adding tasks
 Using a CSV or JSON file for adding tasks
 This is very simple too. There's a sample tasks CSV file included here named 'tasks.csv'.
 
-        $ pbs add_tasks --tasks-file pdf_tasks.csv
+        $ pbs add_tasks --tasks-file tasks.csv
 
 Finally, add the task presenter, tutorial and long description
 
